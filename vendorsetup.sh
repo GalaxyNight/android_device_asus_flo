@@ -16,5 +16,5 @@
 
 add_lunch_combo razor-userdebug
 add_lunch_combo razor_go-userdebug
-add_lunch_combo full_flo-userdebug
+add_lunch_combo aosp_flo-userdebug
 

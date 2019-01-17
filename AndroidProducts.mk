@@ -17,5 +17,5 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/razor.mk \
     $(LOCAL_DIR)/razor_go.mk \
-    $(LOCAL_DIR)/full_flo.mk
+    $(LOCAL_DIR)/aosp_flo.mk
 
